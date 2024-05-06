@@ -6,7 +6,8 @@
     "start": "expo start --tunnel",
     "android": "expo start --android --tunnel",
     "ios": "expo start --ios --tunnel",
-    "web": "expo start --web --tunnel"
+    "web": "expo start --web --tunnel",
+    "ts:check": "tsc"
   },
   "dependencies": {
     "expo": "~50.0.17",
